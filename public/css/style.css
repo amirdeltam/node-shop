@@ -1,0 +1,9 @@
+/* @font-face {
+    font-family: 'vazir';
+    src: url('../fonts/Vazir-FD-WOL.woff');
+} */
+
+body{
+    color: red;
+    /* font-family: 'vazir'; */
+}
